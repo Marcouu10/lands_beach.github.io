@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import plano from "../assets/Plano.png"
+import plano from "../assets/plano.png"
 
 function Layout() {
   return (
