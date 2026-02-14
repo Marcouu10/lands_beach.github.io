@@ -1,5 +1,5 @@
 # Etapa 1: Construcción
-FROM node:18-alpine AS build
+FROM node:22-alpine AS build
 # Entramos a la carpeta de tu proyecto
 WORKDIR /app
 # Copiamos los archivos de configuración
